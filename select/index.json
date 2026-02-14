@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Wild Side",
+  "base_artist": "ALI",
+  "createdAt": "2026-02-14T22:53:39.159727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wild Side of Life",
+      "artist": "Hank Thompson",
+      "has_synced": false,
+      "path": "select/01_The_Wild_Side_of_Life_Hank_Thompson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Wild Side Of Life (1952 Version)",
+      "artist": "Hank Thompson",
+      "has_synced": false,
+      "path": "select/02_The_Wild_Side_Of_Life_(1952_Version)_Hank_Thompson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walk on the Wild Side",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/03_Walk_on_the_Wild_Side_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ride on the Wild Side",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/04_Ride_on_the_Wild_Side_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wild Side",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/05_Wild_Side_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wild Side of Life",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/06_The_Wild_Side_of_Life_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wild Side of Life",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/07_The_Wild_Side_of_Life_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wild Side of Life",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/08_Wild_Side_of_Life_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wild Side of Life",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/09_Wild_Side_of_Life_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wild Side (feat. Cardi B)",
+      "artist": "Normani feat. Cardi B",
+      "has_synced": true,
+      "path": "select/10_Wild_Side_(feat._Cardi_B)_Normani_feat._Cardi_B.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wild Side",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/11_Wild_Side_ALI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wild Side",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/12_Wild_Side_ALI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wild Side",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/13_Wild_Side_ALI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Walk on the Wild Side",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/14_Walk_on_the_Wild_Side_Lou_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wild Side",
+      "artist": "ALI",
+      "has_synced": false,
+      "path": "select/pl_01_Wild_Side_ALI.txt"
+    }
+  ]
+}
